@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    color: white;
+}
+.bg-img{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/84526d58-475e-4e6f-9c81-d2d78ddce803/a76c1727-34da-4d80-99a3-69476e78860d/IN-en-20221228-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+}
+.tv1 {
+    /* background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png); */
+    /* background: url('https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png') no-repeat top  transparent;
+    width: 800px; */
+    /* background-repeat: no-repeat; */
+    margin-right: 200px;
+}
+.img-vid {
+    width: 460px;
+    margin-top: 100px;
+    margin-left: 158px;
+}
+.img-card {
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg);
+    background-repeat: no-repeat;
+    width: 800px;
+}
+.tv2 {
+    /* background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png); */
+    background: url('https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile-in.png') no-repeat top  transparent;
+    width: 800px;
+    /* background-repeat: no-repeat; */
+}
+#plus {
+    /* display: none; */
+}
+#Pli-1 {
+    background-color: rgb(184, 176, 176);
+}
+
+li{
+    list-style: none;
+}
+.li-1{
+    width: 600px;
+    height: 60px;
+    font-size: 20px;
+}
